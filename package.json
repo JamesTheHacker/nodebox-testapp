@@ -1,0 +1,11 @@
+{
+  "name": "nodebox-testapp",
+  "version": "1.0.0",
+  "description": "This is an example repository for testing NodeBox",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Jeffery",
+  "license": "ISC"
+}
