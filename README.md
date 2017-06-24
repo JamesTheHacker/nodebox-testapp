@@ -1,5 +1,3 @@
-#NodeBox Test App
+# NodeJS Test Server
 
-This application does absolutely nothing special. It was developed purely to test my [NodeBox](http://github.com/JamesTheHacker/NodeBox) provisioning script.
-
-Feel free to completely ignore this repo :)
+This repo does nothing useful. It's a very basic test server I created so users could follow along with a blog post I write.
